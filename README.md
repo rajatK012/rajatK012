@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajat Kumar
 
-<!--
-**rajatK012/rajatK012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack & Web3 Developer | React Ecosystem | Hedera Network Builder**  
 
-Here are some ideas to get you started:
+I specialize in building scalable, secure, and decentralized applications with a clean architecture mindset.  
+Currently building **HashBuzz** — a social DApp on Hedera.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack**  
+- React, Next.js, TypeScript  
+- Node.js, Express, PHP  
+- Solidity, Hedera SDK  
+- Redux, RTK Query, Ethers.js  
+- AI & Blockchain Integrations  
+
+🌐 [hashbuzz.social](https://hashbuzz.social)
+
+---
+
+## 🚀 My Workflow
+
+```mermaid
+flowchart TD
+    A[Idea] --> B[Design Architecture]
+    B --> C[Frontend Development<br>(React + TypeScript)]
+    C --> D[Backend APIs<br>(Node.js + Express)]
+    D --> E[Blockchain Integration<br>(Hedera + Solidity)]
+    E --> F[Testing & Deployment]
+    F --> G[Live DApp 🚀]
+    
+    style A fill:#FFD700,stroke:#333,stroke-width:2px
+    style G fill:#32CD32,stroke:#333,stroke-width:2px
