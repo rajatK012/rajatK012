@@ -43,9 +43,9 @@ flowchart TD
 
 ## 🌐 Connect with Me
 
- - Website: hashbuzz.social(https://hashbuzz.social)
+ - Website: [hashbuzz.social](https://hashbuzz.social)
  - Twitter: [@Rajatk0112](x.com/rajatK012)
- - Telegram- @ops295(https://t.me/ops295)
+ - Telegram- [@ops295](https://t.me/ops295)
 
 ##  📖 Currently Exploring
 
