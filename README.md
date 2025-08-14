@@ -20,12 +20,14 @@ Currently building **HashBuzz** — a social DApp on Hedera.
 
 ```mermaid
 flowchart TD
-    A[Idea] --> B[Design Architecture]
-    B --> C[Frontend Development(React-TypeScript)]
-    C --> D[Backend APIs(Node.js-Express)]
-    D --> E[Blockchain Integration(Hedera Solidity)]
-    E --> F[Testing & Deployment]
-    F --> G[Live DApp 🚀]
+    A["Idea"] --> B["Design Architecture"]
+    B --> C["Frontend Development (React + TypeScript)"]
+    C --> D["Backend APIs (Node.js + Express)"]
+    D --> E["Blockchain Integration (Hedera + Solidity)"]
+    E --> F["Testing & Deployment"]
+    F --> G["Live DApp 🚀"]
     
     style A fill:#FFD700,stroke:#333,stroke-width:2px
     style G fill:#32CD32,stroke:#333,stroke-width:2px
+
+```
